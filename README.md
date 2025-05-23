@@ -41,16 +41,9 @@
 
 ---
 
-### 🤝 ¿Colaboramos?
-
-- 🎯 Interesado en proyectos académicos, open source y desafíos que requieran análisis funcional, diseño de base de datos o desarrollo backend.
-- 💬 Si estás desarrollando algo que pueda sumar a mi aprendizaje o experiencia, ¡charlamos!
-
----
-
 ### 📫 Contacto
 
-- 📧 ezequielhramirez.dev@gmail.com  
+- 📧 
 - 💼 [LinkedIn (en proceso)](https://www.linkedin.com)  
 - 🌐 Portfolio (próximamente)
 
